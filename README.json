@@ -1,34 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Code List"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Numerical Method"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Physics"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "High-Performance Features"
-    },
-    {
-      "description": "Contributions to the list are welcome! Contributing guidelines can be found in CONTRIBUTING.md",
-      "items": [],
-      "title": "Contribute"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T05:13:50.961Z",
+    "last_updated": "2026-08-19T12:15:26.060Z",
     "original_repository": "pmocz/awesome-astrophysical-simulation-codes",
+    "original_repository_id": 674536422,
     "original_repository_sha": "22410bd77b05d9e672439106c93a6ec80d78713b",
     "enhanced_repository": "enhansome/enhansome-astrophysical-simulation-codes",
     "enhanced_repository_description": null,
