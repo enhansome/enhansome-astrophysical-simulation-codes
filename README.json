@@ -1,7 +1,299 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Athena++",
+          "description": "Radiation GRMHD code and adaptive mesh refinement (AMR) framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19380617,
+            "language": "C++",
+            "last_commit": "2026-08-13T19:07:31Z",
+            "owner": "PrincetonUniversity",
+            "repo": "athena",
+            "stars": 363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Castro",
+          "description": "Adaptive mesh, rad/mhd/hydro simulation code for massively parallel CPU and GPU architectures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29609157,
+            "language": "C++",
+            "last_commit": "2026-08-21T21:17:07Z",
+            "owner": "AMReX-Astro",
+            "repo": "Castro",
+            "stars": 339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChaNGa",
+          "description": "Charm N-body Gravity solver and SPH.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32057855,
+            "language": "C++",
+            "last_commit": "2026-08-03T03:42:07Z",
+            "owner": "N-BodyShop",
+            "repo": "changa",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cholla",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42947898,
+            "language": "C++",
+            "last_commit": "2026-08-21T22:56:27Z",
+            "owner": "cholla-hydro",
+            "repo": "cholla",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cholla",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42947898,
+            "language": "C++",
+            "last_commit": "2026-08-21T22:56:27Z",
+            "owner": "cholla-hydro",
+            "repo": "cholla",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dedalus",
+          "description": "Flexible framework for solving PDEs with modern spectral methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 264506861,
+            "language": "Python",
+            "last_commit": "2026-07-21T20:22:38Z",
+            "owner": "DedalusProject",
+            "repo": "dedalus",
+            "stars": 703
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enzo",
+          "description": "Adaptive Mesh Refinement Code for Astrophysics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178911062,
+            "language": "C",
+            "last_commit": "2025-08-27T17:28:51Z",
+            "owner": "enzo-project",
+            "repo": "enzo-dev",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GAMER",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114167031,
+            "language": "C++",
+            "last_commit": "2026-08-14T15:00:15Z",
+            "owner": "gamer-project",
+            "repo": "gamer",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gamer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114167031,
+            "language": "C++",
+            "last_commit": "2026-08-14T15:00:15Z",
+            "owner": "gamer-project",
+            "repo": "gamer",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAESTROeX",
+          "description": "Massively parallel low Mach number stellar hydrodynamics code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 104002862,
+            "language": "C++",
+            "last_commit": "2026-07-20T09:43:06Z",
+            "owner": "AMReX-Astro",
+            "repo": "MAESTROeX",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nyx",
+          "description": "Adaptive mesh, cosmological hydrodynamics simulation code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64784596,
+            "language": "C++",
+            "last_commit": "2026-08-24T14:34:37Z",
+            "owner": "AMReX-Astro",
+            "repo": "Nyx",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pencil",
+          "description": "High-order finite-difference code for compressible hydrodynamic flows with magnetic fields and particles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34197379,
+            "language": "Fortran",
+            "last_commit": "2026-08-24T14:38:06Z",
+            "owner": "pencil-code",
+            "repo": "pencil-code",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHANTOM",
+          "description": "Smoothed particle hydrodynamics and magnetohydrodynamics code for astrophysics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 268382174,
+            "language": "Fortran",
+            "last_commit": "2026-08-24T06:47:00Z",
+            "owner": "danieljprice",
+            "repo": "phantom",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PLUTO",
+          "description": "Code targeting high Mach number flows in astrophysical fluid dynamics.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 41677906,
+            "language": "C",
+            "last_commit": "2020-05-20T06:54:48Z",
+            "owner": "JohannesBuchner",
+            "repo": "PLUTO",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QUOKKA",
+          "description": "First two-moment AMR radiation hydrodynamics on GPUs for astrophysics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 238835562,
+            "language": "C++",
+            "last_commit": "2026-08-24T14:33:21Z",
+            "owner": "quokka-astro",
+            "repo": "quokka",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RAMSES",
+          "description": "Code to model astrophysical systems, featuring self-gravitating, magnetized, compressible, radiative fluid flows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 245697832,
+            "language": "Fortran",
+            "last_commit": "2024-09-23T19:33:41Z",
+            "owner": "miried",
+            "repo": "ramses",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REBOUND",
+          "description": "Open-source multi-purpose N-body code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1987576,
+            "language": "C",
+            "last_commit": "2026-08-18T13:18:47Z",
+            "owner": "hannorein",
+            "repo": "rebound",
+            "stars": 1121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWIFT",
+          "description": "Modern highly-parallel gravity and smoothed particle hydrodynamics solver for astrophysical and cosmological applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 125855824,
+            "language": "C",
+            "last_commit": "2026-08-24T01:17:25Z",
+            "owner": "SWIFTSIM",
+            "repo": "SWIFT",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TARDIS",
+          "description": "Fast 1D spectral code for supernovae with a vibrant community focused on training.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2938270,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:00:56Z",
+            "owner": "tardis-sn",
+            "repo": "tardis",
+            "stars": 241
+          }
+        }
+      ],
+      "title": "Code List"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T05:24:44.771Z",
+    "last_updated": "2026-08-24T14:39:36.649Z",
     "original_repository": "pmocz/awesome-astrophysical-simulation-codes",
     "original_repository_id": 674536422,
     "original_repository_sha": "22410bd77b05d9e672439106c93a6ec80d78713b",
