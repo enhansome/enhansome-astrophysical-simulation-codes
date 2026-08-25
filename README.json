@@ -27,7 +27,7 @@
             "archived": false,
             "id": 29609157,
             "language": "C++",
-            "last_commit": "2026-08-21T21:17:07Z",
+            "last_commit": "2026-08-24T20:47:13Z",
             "owner": "AMReX-Astro",
             "repo": "Castro",
             "stars": 339
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 42947898,
             "language": "C++",
-            "last_commit": "2026-08-21T22:56:27Z",
+            "last_commit": "2026-08-24T20:30:43Z",
             "owner": "cholla-hydro",
             "repo": "cholla",
             "stars": 74
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 42947898,
             "language": "C++",
-            "last_commit": "2026-08-21T22:56:27Z",
+            "last_commit": "2026-08-24T20:30:43Z",
             "owner": "cholla-hydro",
             "repo": "cholla",
             "stars": 74
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 34197379,
             "language": "Fortran",
-            "last_commit": "2026-08-24T14:38:06Z",
+            "last_commit": "2026-08-24T22:06:18Z",
             "owner": "pencil-code",
             "repo": "pencil-code",
             "stars": 240
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 268382174,
             "language": "Fortran",
-            "last_commit": "2026-08-24T06:47:00Z",
+            "last_commit": "2026-08-24T14:48:54Z",
             "owner": "danieljprice",
             "repo": "phantom",
             "stars": 161
@@ -222,7 +222,7 @@
             "archived": false,
             "id": 238835562,
             "language": "C++",
-            "last_commit": "2026-08-24T14:33:21Z",
+            "last_commit": "2026-08-25T03:17:57Z",
             "owner": "quokka-astro",
             "repo": "quokka",
             "stars": 86
@@ -267,7 +267,7 @@
             "archived": false,
             "id": 125855824,
             "language": "C",
-            "last_commit": "2026-08-24T01:17:25Z",
+            "last_commit": "2026-08-25T01:00:17Z",
             "owner": "SWIFTSIM",
             "repo": "SWIFT",
             "stars": 157
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 2938270,
             "language": "Python",
-            "last_commit": "2026-08-24T14:00:56Z",
+            "last_commit": "2026-08-24T20:44:10Z",
             "owner": "tardis-sn",
             "repo": "tardis",
             "stars": 241
@@ -293,7 +293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:39:36.649Z",
+    "last_updated": "2026-08-25T05:17:19.811Z",
     "original_repository": "pmocz/awesome-astrophysical-simulation-codes",
     "original_repository_id": 674536422,
     "original_repository_sha": "22410bd77b05d9e672439106c93a6ec80d78713b",
