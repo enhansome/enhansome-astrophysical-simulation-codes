@@ -177,7 +177,7 @@
             "archived": false,
             "id": 34197379,
             "language": "Fortran",
-            "last_commit": "2026-08-24T22:06:18Z",
+            "last_commit": "2026-08-25T15:16:47Z",
             "owner": "pencil-code",
             "repo": "pencil-code",
             "stars": 240
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 268382174,
             "language": "Fortran",
-            "last_commit": "2026-08-24T14:48:54Z",
+            "last_commit": "2026-08-25T12:03:47Z",
             "owner": "danieljprice",
             "repo": "phantom",
             "stars": 161
@@ -222,7 +222,7 @@
             "archived": false,
             "id": 238835562,
             "language": "C++",
-            "last_commit": "2026-08-25T03:17:57Z",
+            "last_commit": "2026-08-26T01:22:59Z",
             "owner": "quokka-astro",
             "repo": "quokka",
             "stars": 86
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 1987576,
             "language": "C",
-            "last_commit": "2026-08-18T13:18:47Z",
+            "last_commit": "2026-08-25T14:58:41Z",
             "owner": "hannorein",
             "repo": "rebound",
             "stars": 1121
@@ -267,7 +267,7 @@
             "archived": false,
             "id": 125855824,
             "language": "C",
-            "last_commit": "2026-08-25T01:00:17Z",
+            "last_commit": "2026-08-26T01:00:19Z",
             "owner": "SWIFTSIM",
             "repo": "SWIFT",
             "stars": 157
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 2938270,
             "language": "Python",
-            "last_commit": "2026-08-24T20:44:10Z",
+            "last_commit": "2026-08-25T21:12:18Z",
             "owner": "tardis-sn",
             "repo": "tardis",
             "stars": 241
@@ -293,7 +293,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:32:54.013Z",
+    "last_updated": "2026-08-26T05:16:31.486Z",
     "original_repository": "pmocz/awesome-astrophysical-simulation-codes",
     "original_repository_id": 674536422,
     "original_repository_sha": "22410bd77b05d9e672439106c93a6ec80d78713b",
