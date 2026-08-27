@@ -57,7 +57,7 @@
             "archived": false,
             "id": 42947898,
             "language": "C++",
-            "last_commit": "2026-08-24T20:30:43Z",
+            "last_commit": "2026-08-27T00:05:26Z",
             "owner": "cholla-hydro",
             "repo": "cholla",
             "stars": 74
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 42947898,
             "language": "C++",
-            "last_commit": "2026-08-24T20:30:43Z",
+            "last_commit": "2026-08-27T00:05:26Z",
             "owner": "cholla-hydro",
             "repo": "cholla",
             "stars": 74
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-14T15:00:15Z",
             "owner": "gamer-project",
             "repo": "gamer",
-            "stars": 105
+            "stars": 104
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-14T15:00:15Z",
             "owner": "gamer-project",
             "repo": "gamer",
-            "stars": 105
+            "stars": 104
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 64784596,
             "language": "C++",
-            "last_commit": "2026-08-24T14:34:37Z",
+            "last_commit": "2026-08-26T21:15:20Z",
             "owner": "AMReX-Astro",
             "repo": "Nyx",
             "stars": 105
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 34197379,
             "language": "Fortran",
-            "last_commit": "2026-08-25T15:16:47Z",
+            "last_commit": "2026-08-27T08:36:39Z",
             "owner": "pencil-code",
             "repo": "pencil-code",
             "stars": 240
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 268382174,
             "language": "Fortran",
-            "last_commit": "2026-08-25T12:03:47Z",
+            "last_commit": "2026-08-27T03:03:39Z",
             "owner": "danieljprice",
             "repo": "phantom",
             "stars": 161
@@ -222,7 +222,7 @@
             "archived": false,
             "id": 238835562,
             "language": "C++",
-            "last_commit": "2026-08-26T01:22:59Z",
+            "last_commit": "2026-08-27T08:45:09Z",
             "owner": "quokka-astro",
             "repo": "quokka",
             "stars": 86
@@ -252,10 +252,10 @@
             "archived": false,
             "id": 1987576,
             "language": "C",
-            "last_commit": "2026-08-25T14:58:41Z",
+            "last_commit": "2026-08-26T11:17:35Z",
             "owner": "hannorein",
             "repo": "rebound",
-            "stars": 1121
+            "stars": 1122
           }
         },
         {
@@ -267,7 +267,7 @@
             "archived": false,
             "id": 125855824,
             "language": "C",
-            "last_commit": "2026-08-26T01:00:19Z",
+            "last_commit": "2026-08-27T01:00:21Z",
             "owner": "SWIFTSIM",
             "repo": "SWIFT",
             "stars": 157
@@ -293,9 +293,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:16:31.486Z",
-    "original_repository": "pmocz/awesome-astrophysical-simulation-codes",
-    "original_repository_id": 674536422,
+    "last_updated": "2026-08-27T11:21:05.778Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 674536422,
+      "language": null,
+      "last_commit": "2023-09-30T04:19:33Z",
+      "owner": "pmocz",
+      "repo": "awesome-astrophysical-simulation-codes",
+      "stars": 119
+    },
     "original_repository_sha": "22410bd77b05d9e672439106c93a6ec80d78713b",
     "enhanced_repository": "enhansome/enhansome-astrophysical-simulation-codes",
     "enhanced_repository_description": null,
