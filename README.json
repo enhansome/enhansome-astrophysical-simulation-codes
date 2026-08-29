@@ -275,7 +275,7 @@
             "id": 34197379,
             "language": "Fortran",
             "license": null,
-            "last_commit": "2026-08-28T18:23:47Z",
+            "last_commit": "2026-08-29T07:57:47Z",
             "open_issues": 0,
             "owner": "pencil-code",
             "repo": "pencil-code",
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:59:28.485Z",
+    "last_updated": "2026-08-29T11:21:29.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome astrophysical simulation codes",
