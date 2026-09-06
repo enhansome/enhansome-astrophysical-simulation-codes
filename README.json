@@ -189,7 +189,7 @@
             "open_issues": 139,
             "owner": "gamer-project",
             "repo": "gamer",
-            "stars": 104,
+            "stars": 105,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:57.544Z"
@@ -210,7 +210,7 @@
             "open_issues": 139,
             "owner": "gamer-project",
             "repo": "gamer",
-            "stars": 104,
+            "stars": 105,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:57.544Z"
@@ -275,7 +275,7 @@
             "id": 34197379,
             "language": "Fortran",
             "license": null,
-            "last_commit": "2026-09-04T23:17:17Z",
+            "last_commit": "2026-09-06T08:32:15Z",
             "open_issues": 0,
             "owner": "pencil-code",
             "repo": "pencil-code",
@@ -354,8 +354,8 @@
             "id": 238835562,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-04T23:15:02Z",
-            "open_issues": 251,
+            "last_commit": "2026-09-06T05:55:51Z",
+            "open_issues": 255,
             "owner": "quokka-astro",
             "repo": "quokka",
             "stars": 86,
@@ -436,7 +436,7 @@
             "id": 125855824,
             "language": "C",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-05T01:00:18Z",
+            "last_commit": "2026-09-06T01:00:13Z",
             "open_issues": 18,
             "owner": "SWIFTSIM",
             "repo": "SWIFT",
@@ -470,8 +470,8 @@
             "id": 2938270,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-04T21:16:21Z",
-            "open_issues": 234,
+            "last_commit": "2026-09-06T02:43:17Z",
+            "open_issues": 235,
             "owner": "tardis-sn",
             "repo": "tardis",
             "stars": 241,
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:36:06.353Z",
+    "last_updated": "2026-09-06T08:56:29.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome astrophysical simulation codes",
