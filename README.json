@@ -275,11 +275,11 @@
             "id": 34197379,
             "language": "Fortran",
             "license": null,
-            "last_commit": "2026-09-06T08:32:15Z",
+            "last_commit": "2026-09-06T20:41:11Z",
             "open_issues": 0,
             "owner": "pencil-code",
             "repo": "pencil-code",
-            "stars": 242,
+            "stars": 243,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:57.544Z"
@@ -296,8 +296,8 @@
             "id": 268382174,
             "language": "Fortran",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T08:40:07Z",
-            "open_issues": 77,
+            "last_commit": "2026-09-06T23:09:19Z",
+            "open_issues": 76,
             "owner": "danieljprice",
             "repo": "phantom",
             "stars": 162,
@@ -354,8 +354,8 @@
             "id": 238835562,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-06T05:55:51Z",
-            "open_issues": 255,
+            "last_commit": "2026-09-07T09:29:15Z",
+            "open_issues": 251,
             "owner": "quokka-astro",
             "repo": "quokka",
             "stars": 86,
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:56:29.396Z",
+    "last_updated": "2026-09-07T09:45:40.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome astrophysical simulation codes",
@@ -502,7 +502,7 @@
       "open_issues": 3,
       "owner": "pmocz",
       "repo": "awesome-astrophysical-simulation-codes",
-      "stars": 120,
+      "stars": 121,
       "topics": [
         "astrophysics",
         "awesome",
