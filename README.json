@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "PrincetonUniversity",
             "repo": "athena",
-            "stars": 363,
+            "stars": 364,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:57.544Z"
@@ -275,11 +275,11 @@
             "id": 34197379,
             "language": "Fortran",
             "license": null,
-            "last_commit": "2026-09-07T22:57:08Z",
+            "last_commit": "2026-09-09T09:11:50Z",
             "open_issues": 0,
             "owner": "pencil-code",
             "repo": "pencil-code",
-            "stars": 243,
+            "stars": 244,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:57.544Z"
@@ -354,8 +354,8 @@
             "id": 238835562,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-08T06:55:24Z",
-            "open_issues": 311,
+            "last_commit": "2026-09-09T08:59:35Z",
+            "open_issues": 305,
             "owner": "quokka-astro",
             "repo": "quokka",
             "stars": 86,
@@ -436,7 +436,7 @@
             "id": 125855824,
             "language": "C",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-08T01:00:13Z",
+            "last_commit": "2026-09-09T01:00:19Z",
             "open_issues": 18,
             "owner": "SWIFTSIM",
             "repo": "SWIFT",
@@ -470,8 +470,8 @@
             "id": 2938270,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-09-06T02:43:17Z",
-            "open_issues": 236,
+            "last_commit": "2026-09-08T17:44:39Z",
+            "open_issues": 237,
             "owner": "tardis-sn",
             "repo": "tardis",
             "stars": 241,
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T09:06:16.177Z",
+    "last_updated": "2026-09-09T09:12:01.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome astrophysical simulation codes",
