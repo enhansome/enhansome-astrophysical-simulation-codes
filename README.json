@@ -143,7 +143,7 @@
             "open_issues": 65,
             "owner": "DedalusProject",
             "repo": "dedalus",
-            "stars": 706,
+            "stars": 708,
             "topics": [
               "fluid-dynamics",
               "pde-solver",
@@ -186,10 +186,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-10T12:26:00Z",
-            "open_issues": 138,
+            "open_issues": 139,
             "owner": "gamer-project",
             "repo": "gamer",
-            "stars": 105,
+            "stars": 106,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:57.544Z"
@@ -207,10 +207,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-10T12:26:00Z",
-            "open_issues": 138,
+            "open_issues": 139,
             "owner": "gamer-project",
             "repo": "gamer",
-            "stars": 105,
+            "stars": 106,
             "topics": []
           },
           "first_seen": "2026-08-28T16:55:57.544Z"
@@ -275,7 +275,7 @@
             "id": 34197379,
             "language": "Fortran",
             "license": null,
-            "last_commit": "2026-09-12T15:18:52Z",
+            "last_commit": "2026-09-14T09:31:40Z",
             "open_issues": 0,
             "owner": "pencil-code",
             "repo": "pencil-code",
@@ -354,8 +354,8 @@
             "id": 238835562,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-13T00:15:29Z",
-            "open_issues": 309,
+            "last_commit": "2026-09-14T07:31:20Z",
+            "open_issues": 311,
             "owner": "quokka-astro",
             "repo": "quokka",
             "stars": 86,
@@ -436,7 +436,7 @@
             "id": 125855824,
             "language": "C",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-13T01:00:19Z",
+            "last_commit": "2026-09-14T01:00:25Z",
             "open_issues": 18,
             "owner": "SWIFTSIM",
             "repo": "SWIFT",
@@ -471,7 +471,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-13T05:01:35Z",
-            "open_issues": 238,
+            "open_issues": 239,
             "owner": "tardis-sn",
             "repo": "tardis",
             "stars": 242,
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T09:44:47.836Z",
+    "last_updated": "2026-09-14T10:07:52.277Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome astrophysical simulation codes",
