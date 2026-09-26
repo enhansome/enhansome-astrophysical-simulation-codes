@@ -143,7 +143,7 @@
             "open_issues": 66,
             "owner": "DedalusProject",
             "repo": "dedalus",
-            "stars": 709,
+            "stars": 710,
             "topics": [
               "fluid-dynamics",
               "pde-solver",
@@ -275,7 +275,7 @@
             "id": 34197379,
             "language": "Fortran",
             "license": null,
-            "last_commit": "2026-09-25T08:53:18Z",
+            "last_commit": "2026-09-26T06:01:36Z",
             "open_issues": 0,
             "owner": "pencil-code",
             "repo": "pencil-code",
@@ -408,8 +408,8 @@
             "id": 1987576,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-22T13:37:02Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-25T18:58:50Z",
+            "open_issues": 28,
             "owner": "hannorein",
             "repo": "rebound",
             "stars": 1136,
@@ -436,7 +436,7 @@
             "id": 125855824,
             "language": "C",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-25T01:00:32Z",
+            "last_commit": "2026-09-26T01:00:28Z",
             "open_issues": 18,
             "owner": "SWIFTSIM",
             "repo": "SWIFT",
@@ -490,7 +490,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T09:48:15.238Z",
+    "last_updated": "2026-09-26T09:32:03.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome astrophysical simulation codes",
